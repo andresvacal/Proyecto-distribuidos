@@ -1,0 +1,3 @@
+probabilidadNoHumo=0.4
+probabilidadHumo=0.5
+probabilidadErrores=0.1
